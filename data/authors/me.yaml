@@ -65,11 +65,10 @@ education:
     institution: Case Western Reserve University
     year: 2012
     end: '2012'
-  # TODO: add BS year (an entry without an end date displays as "Present")
-  # - degree: BS, Psychology
-  #   institution: Liberty University
-  #   year: YYYY
-  #   end: 'YYYY'
+  - degree: BS, Psychology
+    institution: Liberty University
+    year: 2010
+    end: '2010'
 
 experience:
   - role: Associate Professor of Psychology
