@@ -1,22 +1,24 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Research Projects'
+date: 2026-11-18
 type: landing
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research Projects
+      text: Current and long-running lines of work in the BAAAD Lab.
       filters:
         folders:
           - projects
+      count: 0
+      order: asc
+      sort_by: Params.weight
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
       show_date: false
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---

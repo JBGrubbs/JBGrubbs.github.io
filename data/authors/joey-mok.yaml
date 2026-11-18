@@ -1,0 +1,13 @@
+schema: hugoblox/author/v1
+slug: joey-mok
+name:
+  display: Joey Mok
+role: Research Assistant
+affiliations:
+  - name: BAAAD Lab
+user_groups:
+  - Research Assistants
+interests:
+  - Sports betting
+  - Behavioral addictions
+weight: 1

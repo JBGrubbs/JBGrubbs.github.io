@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: jeremy-scott
+name:
+  display: Jeremy Scott
+role: PhD Student (1st year), Clinical Psychology
+affiliations:
+  - name: University of New Mexico
+user_groups:
+  - Graduate Students
+weight: 5

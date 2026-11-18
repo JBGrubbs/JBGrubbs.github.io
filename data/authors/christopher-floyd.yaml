@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: christopher-floyd
+name:
+  display: Christopher G. Floyd
+role: Predoctoral Intern, Cincinnati VA Medical Center
+affiliations:
+  - name: Cincinnati VA Medical Center
+user_groups:
+  - Alumni
+weight: 1
