@@ -11,7 +11,7 @@ authors:
   - 'Marc N. Potenza'
   - 'Zsolt Demetrovics'
   - 'András Költő'
-  - '_ _'
+  - 'International Sex Survey Consortium'
   - 'me'
 date: '2026-04-01'
 publishDate: '2026-04-01'

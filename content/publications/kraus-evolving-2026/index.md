@@ -1,5 +1,5 @@
 ---
-title: 'An evolving threat: Problem gambling and sports wagering in the Unites States military'
+title: 'An evolving threat: Problem gambling and sports wagering in the United States military'
 authors:
   - 'Shane W. Kraus'
   - 'me'
