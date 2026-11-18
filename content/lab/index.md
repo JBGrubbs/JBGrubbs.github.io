@@ -37,7 +37,7 @@ sections:
     content:
       title: 'Funding'
       text: |-
-        - **Sports Gambling, Alcohol and Substance Use: A Center of Excellence Grant.** International Center for Responsible Gaming (ICRG), 2026 to 2029. J. B. Grubbs (PI); F. J. Schwebel (Co-I). [Project details](/projects/sports-betting-alcohol-center/)
+        - **Sports Gambling, Alcohol and Substance Use: A Center of Excellence Grant.** International Center for Responsible Gaming (ICRG), November 2026 to October 2029. J. B. Grubbs (PI); F. J. Schwebel (Co-I). [Project details](/projects/sports-betting-alcohol-center/)
         - **Gambling Outcomes in Veterans: Etiology and Treatment (GOVET).** Kindbridge Research Institute, 2022 to 2026. J. B. Grubbs (PI); H. Chapman and S. W. Kraus (Co-Is). [Project details](/projects/veterans-gambling/)
         - **Sports-Wagering in the U.S.: A Nationally Representative Longitudinal Study.** International Center for Responsible Gaming (ICRG), 2021 to 2024. J. B. Grubbs (PI). [Project details](/projects/sports-betting/)
     design:

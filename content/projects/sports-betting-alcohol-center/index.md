@@ -8,7 +8,7 @@ tags:
 weight: 5
 ---
 
-Funded by the International Center for Responsible Gaming (ICRG) as a three-year Center of Excellence grant (PI: J. B. Grubbs; Co-I: F. J. Schwebel), this project is designed to identify when, where, and why sports betting and substance use co-occur, and to translate those findings into intervention. The Center comprises four integrated studies:
+Funded by the International Center for Responsible Gaming (ICRG) as a three-year Center of Excellence grant (November 2026 to October 2029; PI: J. B. Grubbs; Co-I: F. J. Schwebel), this project is designed to identify when, where, and why sports betting and substance use co-occur, and to translate those findings into intervention. The Center comprises four integrated studies:
 
 1. **Meta-analysis** of the literature linking sports betting with alcohol and substance use.
 2. **Qualitative interviews** with sports bettors who vary in betting style and drinking.
