@@ -8,3 +8,12 @@ affiliations:
 user_groups:
   - Graduate Students
 weight: 5
+bio: 'I am interested in the use of psychedelics in therapeutic treatment settings, particularly for addictions. Additionally, I am interested in behavioral addictions broadly and compulsive sexual behavior specifically.'
+interests:
+  - Psychedelic-assisted therapy
+  - Behavioral addictions
+  - Compulsive sexual behavior
+links:
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=ymA4XdwAAAAJ
+    label: Google Scholar

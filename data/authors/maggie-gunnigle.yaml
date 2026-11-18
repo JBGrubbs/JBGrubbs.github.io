@@ -8,3 +8,12 @@ affiliations:
 user_groups:
   - Graduate Students
 weight: 4
+bio: 'I am interested in gambling disorder, alcohol use, and the co-occurrence of gambling disorder and substance use disorders. I am particularly interested in gambling treatment and the development of empirically supported treatments for gambling disorder.'
+interests:
+  - Gambling disorder
+  - Alcohol use
+  - Gambling treatment
+links:
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=ZYaPv4YAAAAJ
+    label: Google Scholar
