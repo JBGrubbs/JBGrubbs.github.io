@@ -17,7 +17,7 @@ sections:
     content:
       title: ''
       text: |-
-        For a complete record of publications, funding, teaching, and service, see my [curriculum vitae](https://drive.google.com/open?id=1FHGTXObvEooYboxzVN7rRlxbRhQlTk4p&usp=drive_fs).
+        For a complete record of publications, funding, teaching, and service, see my [curriculum vitae](/uploads/Grubbs_CV.pdf).
     design:
       columns: '1'
 ---

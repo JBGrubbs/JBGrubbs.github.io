@@ -17,7 +17,7 @@ sections:
         I am committed to open, transparent, and reproducible science, and I regularly share findings with clinicians, policymakers, regulators, and the public. I am available for [speaking, training, consultation, and expert witness work](speaking/).
       button:
         text: View CV
-        url: https://drive.google.com/open?id=1FHGTXObvEooYboxzVN7rRlxbRhQlTk4p&usp=drive_fs
+        url: /uploads/Grubbs_CV.pdf
       headings:
         about: 'About'
         education: 'Education'
