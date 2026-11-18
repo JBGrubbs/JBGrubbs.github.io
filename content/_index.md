@@ -102,14 +102,14 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: '220+'
-          description: Publications and chapters
+        - statistic: '190+'
+          description: Peer-reviewed journal articles
           icon: hero/document-text
-        - statistic: '12+'
-          description: Trainings delivered each year
-          icon: hero/presentation-chart-bar
-        - statistic: '8'
-          description: PhD dissertations chaired
+        - statistic: '13,800+'
+          description: Citations (Google Scholar)
+          icon: hero/chart-bar
+        - statistic: '60'
+          description: h-index
           icon: hero/academic-cap
     design:
       layout: compact

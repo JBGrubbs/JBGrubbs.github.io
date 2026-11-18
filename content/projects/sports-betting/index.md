@@ -10,7 +10,7 @@ weight: 10
 
 Sports wagering has expanded rapidly since the Supreme Court's 2018 decision in *Murphy v. NCAA* allowed states to legalize it, and mobile betting apps have made it available around the clock. There are good reasons to expect participation to keep growing, particularly among younger adults. This project follows sports wagering in the U.S. over time, describes the motives and cognitions behind it, identifies risk factors for gambling disorder among bettors, and examines how technology and state policy shape betting behavior.
 
-Much of this work draws on a five-wave longitudinal panel matched to U.S. census norms. Recent work extends the project to **prediction markets**, using mixed methods to ask whether people who trade on these platforms see them as gambling and whether they show the same problem-gambling characteristics as sports bettors.
+Much of this work draws on a five-wave longitudinal panel matched to U.S. census norms, funded by the International Center for Responsible Gaming through *Sports-Wagering in the U.S.: A Nationally Representative Longitudinal Study* (2021 to 2024). Recent work extends the project to **prediction markets**, using mixed methods to ask whether people who trade on these platforms see them as gambling and whether they show the same problem-gambling characteristics as sports bettors.
 
 ## Selected publications
 

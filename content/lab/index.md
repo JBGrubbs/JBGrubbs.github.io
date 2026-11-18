@@ -35,12 +35,11 @@ sections:
   - block: markdown
     id: funding
     content:
-      title: 'Current Funding'
+      title: 'Funding'
       text: |-
-        - **Center of Excellence on Sports Betting, Alcohol and Substance Use.** International Center for Responsible Gaming (ICRG), 2026 to 2029. *Principal Investigator.* [Project details](/projects/sports-betting-alcohol-center/)
-        - **Gambling in Women Veterans Initiative.** 50x4Vets. *Lead.* [Project details](/projects/veterans-gambling/)
-        - **We're Betting We Can Identify Markers of Gambling Disorder.** National Institute of Mental Health R01 (PI: N. Borgogna, University of Alabama at Birmingham). *Consultant.*
-        - **Functional and Psychological Trajectories of Emerging Adult Men's Problematic Pornography Use.** PI: N. Borgogna, University of Alabama at Birmingham. *Co-Investigator and UNM site lead.*
+        - **Sports Gambling, Alcohol and Substance Use: A Center of Excellence Grant.** International Center for Responsible Gaming (ICRG), 2026 to 2029. J. B. Grubbs (PI); F. J. Schwebel (Co-I). [Project details](/projects/sports-betting-alcohol-center/)
+        - **Gambling Outcomes in Veterans: Etiology and Treatment (GOVET).** Kindbridge Research Institute, 2022 to 2026. J. B. Grubbs (PI); H. Chapman and S. W. Kraus (Co-Is). [Project details](/projects/veterans-gambling/)
+        - **Sports-Wagering in the U.S.: A Nationally Representative Longitudinal Study.** International Center for Responsible Gaming (ICRG), 2021 to 2024. J. B. Grubbs (PI). [Project details](/projects/sports-betting/)
     design:
       columns: '1'
 
