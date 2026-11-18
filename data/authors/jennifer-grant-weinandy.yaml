@@ -8,3 +8,7 @@ affiliations:
 user_groups:
   - Alumni
 weight: 2
+links:
+  - icon: hero/globe-alt
+    url: https://www.ohio.edu/experts/expert/jennifer-grant-weinandy
+    label: Faculty page
