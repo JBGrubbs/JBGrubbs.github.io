@@ -1,50 +1,119 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-11-18
 type: landing
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
+      text: |-
+        I am an Associate Professor in the PCSAS-accredited Clinical Science PhD program at the University of New Mexico, an Investigator at the [Center on Alcohol, Substance use, And Addictions (CASAA)](https://casaa.unm.edu/), and a licensed clinical psychologist. I direct the [Behavioral Addictions And Associated Disorders (BAAAD) Lab](lab/).
+
+        My research focuses on addictive behaviors that are reshaping public health: the rapid spread of legal sports betting and newer products such as prediction markets, compulsive sexual behavior, and alcohol use that co-occurs with both. Much of this work uses large, nationally representative longitudinal panels and intensive daily methods to understand who develops problems, how problems change over time, and how policy and social context shape those trajectories. A long-running line of work examines moral incongruence, or how people's moral beliefs shape whether they see their own behavior as an addiction.
+
+        I am committed to open, transparent, and reproducible science, and I regularly share findings with clinicians, policymakers, regulators, and the public. I am available for [speaking, training, consultation, and expert witness work](speaking/).
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: View CV
+        url: https://drive.google.com/open?id=1FHGTXObvEooYboxzVN7rRlxbRhQlTk4p&usp=drive_fs
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About'
+        education: 'Education'
+        interests: 'Research Interests'
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-  - block: markdown
+        size: medium
+        shape: circle
+
+  - block: research-areas
+    id: research
     content:
-      title: '📚 My Research'
+      title: Research Areas
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+      text: ''
+      items:
+        - name: Gambling & Sports Betting
+          description: Problem gambling in the era of legal sports wagering, including policy effects, betting behavior tracked over time, and whether prediction markets function as gambling.
+          icon: hero/presentation-chart-bar
+          topics:
+            - Sports betting
+            - Gambling policy
+            - Prediction markets
+          cta:
+            text: Learn more
+            url: projects/sports-betting/
+        - name: Compulsive Sexual Behavior
+          description: Assessment, classification, and course of compulsive sexual behavior disorder and problematic pornography use, studied in national and international samples.
+          icon: hero/light-bulb
+          topics:
+            - CSBD
+            - Pornography use
+            - Assessment
+          cta:
+            text: Publications
+            url: tags/compulsive-sexual-behavior/
+        - name: Moral Incongruence & Religion
+          description: How conflict between moral or religious beliefs and behavior shapes distress, self-perceived addiction, and help-seeking.
+          icon: hero/scale
+          topics:
+            - Moral incongruence
+            - Religion & spirituality
+            - Self-perception
+          cta:
+            text: Learn more
+            url: projects/moral-incongruence/
+        - name: Alcohol & Co-occurring Addictions
+          description: How drinking and other substance use travel with gambling, from daily links between betting and drinking to population trends after sports betting legalization.
+          icon: hero/beaker
+          topics:
+            - Alcohol use
+            - Daily (EMA) methods
+            - Comorbidity
+          cta:
+            text: Learn more
+            url: projects/sports-betting-alcohol-center/
+        - name: Veterans' Behavioral Health
+          description: Gambling disorder, substance use, and related problems among U.S. veterans, including a dedicated initiative on gambling in women veterans.
+          icon: hero/user-group
+          topics:
+            - Veterans
+            - Gambling disorder treatment
+            - Women veterans
+          cta:
+            text: Learn more
+            url: projects/veterans-gambling/
+        - name: Longitudinal & Open Science
+          description: Large, nationally representative panels followed over years, daily diary and EMA designs, and a commitment to transparent, reproducible methods.
+          icon: hero/chart-bar
+          topics:
+            - Panel studies
+            - EMA
+            - Open science
     design:
-      columns: '1'
+      layout: cards
+
+  - block: stats
+    content:
+      items:
+        - statistic: '220+'
+          description: Publications and chapters
+          icon: hero/document-text
+        - statistic: '12+'
+          description: Trainings delivered each year
+          icon: hero/presentation-chart-bar
+        - statistic: '8'
+          description: PhD dissertations chaired
+          icon: hero/academic-cap
+    design:
+      layout: compact
+
   - block: collection
     id: papers
     content:
@@ -53,75 +122,32 @@ sections:
         folders:
           - publications
         featured_only: true
+      count: 9
     design:
-      view: article-grid
-      columns: 2
+      view: citation
+
   - block: collection
     content:
       title: Recent Publications
       text: ''
+      count: 8
       filters:
         folders:
           - publications
         exclude_featured: false
+        exclude_future: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+
   - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
     content:
-      title: 👉 Build your own academic website like this
+      title: Speaking, Training & Consultation
       text: |-
-        This site is generated by HugoBlox Kit - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/kit" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/kit on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        I give keynotes, continuing education workshops, and trainings on gambling, sports betting, and compulsive sexual behavior, and I consult with organizations, regulators, and attorneys.
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Learn more
+        url: speaking/
     design:
       card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+        css_class: 'bg-primary-100 dark:bg-primary-900'
 ---

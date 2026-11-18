@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: kelsi-hoagland
+name:
+  display: Kelsi Hoagland
+role: Doctoral Candidate, Clinical Psychology
+affiliations:
+  - name: Bowling Green State University
+user_groups:
+  - Graduate Students
+interests:
+  - Compulsive sexual behavior
+  - Moral incongruence

@@ -2,115 +2,95 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Joshua B. Grubbs
+  given: Joshua
+  family: Grubbs
 postnominals:
   - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+role: Associate Professor of Psychology · Licensed Clinical Psychologist
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Joshua Grubbs is an Associate Professor of Psychology at the University of New Mexico and an
+  Investigator at the Center on Alcohol, Substance use, And Addictions (CASAA), where he directs
+  the Behavioral Addictions And Associated Disorders (BAAAD) Lab. His research examines gambling
+  and sports betting, compulsive sexual behavior, and alcohol use, with a focus on how social,
+  moral, and policy contexts shape addictive behavior.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of New Mexico
+    url: https://psych.unm.edu/
+  - name: CASAA
+    url: https://casaa.unm.edu/
+
+user_groups:
+  - Principal Investigator
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: mailto:joshuagrubbsphd@gmail.com
+    label: Email
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=gCnmj3kAAAAJ
+    label: Google Scholar
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/joshuagrubbsphd.bsky.social
+    label: Bluesky
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/joshua-grubbs-a3aa05267
+    label: LinkedIn
+  - icon: brands/github
+    url: https://github.com/jbgrubbs
+    label: GitHub
+  - icon: academicons/cv
+    url: https://drive.google.com/open?id=1FHGTXObvEooYboxzVN7rRlxbRhQlTk4p&usp=drive_fs
+    label: Curriculum Vitae
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Gambling disorder and sports betting
+  - Compulsive sexual behavior disorder
+  - Alcohol use and co-occurring addictions
+  - Moral incongruence and self-perceived addiction
+  - Veterans' behavioral health
+  - Longitudinal and quantitative methods
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD, Clinical Psychology
+    institution: Case Western Reserve University
+    year: 2016
+    end: '2016'
+  - degree: Predoctoral Internship, Clinical Psychology
+    institution: Louis Stokes Cleveland VA Medical Center (VA Northeast Ohio Healthcare System)
+    year: 2016
+    end: '2016'
+  - degree: MA, Psychology
+    institution: Case Western Reserve University
+    year: 2012
+    end: '2012'
+  # TODO: add BS year (an entry without an end date displays as "Present")
+  # - degree: BS, Psychology
+  #   institution: Liberty University
+  #   year: YYYY
+  #   end: 'YYYY'
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Associate Professor of Psychology
+    org: University of New Mexico
+    start: 2023-08-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Faculty in the PCSAS-accredited Clinical Science PhD program. Directs the BAAAD Lab and
+      leads the assessment supervision clinic in the department's training clinic.
+  - role: Investigator
+    org: Center on Alcohol, Substance use, And Addictions (CASAA), University of New Mexico
+    start: 2023-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+      Principal Investigator of the ICRG Center of Excellence on Sports Betting, Alcohol and
+      Substance Use (2026 to 2029).
+  - role: Associate Professor of Psychology
+    org: Bowling Green State University
+    start: 2021-08-01
+    end: 2023-07-31
+    summary: |
+      Tenured in 2021. Faculty in the Clinical Psychology PhD program.
+  - role: Assistant Professor of Psychology
+    org: Bowling Green State University
+    start: 2016-08-01
+    end: 2021-07-31
