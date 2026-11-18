@@ -2,11 +2,12 @@ schema: hugoblox/author/v1
 slug: regina-tahk
 name:
   display: Regina Tahk
-role: Doctoral Candidate, Clinical Psychology
+role: PhD Student (5th year), Clinical Psychology
 affiliations:
   - name: University of New Mexico
 user_groups:
   - Graduate Students
+weight: 2
 bio: Studies how people morally judge substance use disorders compared with behavioral addictions, and who is seen as deserving of care.
 interests:
   - Stigma and addiction

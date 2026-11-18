@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: jennifer-grant-weinandy
+name:
+  display: Jennifer T. Grant Weinandy, PhD
+role: Assistant Professor
+affiliations:
+  - name: Ohio University
+user_groups:
+  - Alumni
+weight: 2

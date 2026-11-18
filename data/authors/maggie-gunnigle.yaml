@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: maggie-gunnigle
+name:
+  display: Maggie Gunnigle
+role: PhD Student (1st year), Clinical Psychology
+affiliations:
+  - name: University of New Mexico
+user_groups:
+  - Graduate Students
+weight: 4

@@ -21,7 +21,8 @@ sections:
         - Principal Investigator
         - Graduate Students
         - Research Assistants
-      sort_by: 'name.family'
+        - Alumni
+      sort_by: 'weight'
       sort_ascending: true
     design:
       show_role: true

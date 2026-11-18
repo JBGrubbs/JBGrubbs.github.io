@@ -2,11 +2,12 @@ schema: hugoblox/author/v1
 slug: alex-connolly
 name:
   display: Alexander J. Connolly
-role: Doctoral Candidate, Clinical Psychology
+role: PhD Student (5th year), Clinical Psychology
 affiliations:
   - name: University of New Mexico
 user_groups:
   - Graduate Students
+weight: 1
 bio: Studies sports gambling and how it intersects with alcohol use and other addictions.
 interests:
   - Sports betting

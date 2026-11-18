@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: kristi-carrasquillo
+name:
+  display: Kristi Carrasquillo
+role: PhD Student (2nd year), Clinical Psychology
+affiliations:
+  - name: University of New Mexico
+user_groups:
+  - Graduate Students
+weight: 3
